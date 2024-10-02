@@ -16,11 +16,11 @@ build:
 
 requirements:
   host:
-    - python
+    - python >=3.7
     - setuptools >=65.6
 
   run:
-    - python
+    - python >=3.7
     - future >=0.16
     - numpy >=1.19
     - scipy >=1.1
